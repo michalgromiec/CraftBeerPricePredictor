@@ -1,0 +1,637 @@
+2019-07-23 21:44:05.552664|ontap_scrapped - pub 33 Krany Craftb33r Pub
+2019-07-23 21:44:17.911712|ontap_scrapped - pub Browar Stary Rynek
+2019-07-23 21:44:22.606569|ontap_scrapped - pub Środek
+2019-07-23 21:44:28.865446|ontap_scrapped - pub Kraftodajnia
+2019-07-23 21:44:36.574521|ontap_scrapped - pub PRL Rocks
+2019-07-23 21:44:39.661302|ontap_scrapped - pub Prolog9
+2019-07-23 21:44:45.569104|ontap_scrapped - pub Zelter
+2019-07-23 21:44:50.384520|ontap_scrapped - pub RBL
+2019-07-23 21:44:54.317900|ontap_scrapped - pub Reden
+2019-07-23 21:44:58.412890|ontap_scrapped - pub Cafe Belg
+2019-07-23 21:45:01.900120|ontap_scrapped - pub Multitap Piwiarnia Częstochowa
+2019-07-23 21:45:07.156638|ontap_scrapped - pub PPR-Piwiarnia Piw Regionalnych
+2019-07-23 21:45:11.763613|ontap_scrapped - pub Wielokran Absztyfikant
+2019-07-23 21:45:17.007409|ontap_scrapped - pub Brovarnia
+2019-07-23 21:45:19.415261|ontap_scrapped - pub Bruderschaft
+2019-07-23 21:45:22.504117|ontap_scrapped - pub Cafe Lamus & Lawendowa8
+2019-07-23 21:45:28.149541|ontap_scrapped - pub Cathead
+2019-07-23 21:45:35.422172|ontap_scrapped - pub Degustatornia
+2019-07-23 21:45:40.373991|ontap_scrapped - pub Graciarnia
+2019-07-23 21:45:43.798801|ontap_scrapped - pub Labeerynt
+2019-07-23 21:45:48.209898|ontap_scrapped - pub LOFT
+2019-07-23 21:45:52.705144|ontap_scrapped - pub Maverick
+2019-07-23 21:45:57.603268|ontap_scrapped - pub Polufka
+2019-07-23 21:46:00.301950|ontap_scrapped - pub Pub Browar Spółdzielczy
+2019-07-23 21:46:07.055905|ontap_scrapped - pub Pułapka
+2019-07-23 21:46:11.615836|ontap_scrapped - pub Z Innej Beczki
+2019-07-23 21:46:17.400290|ontap_scrapped - pub AleBrowar Gdynia
+2019-07-23 21:46:21.660019|ontap_scrapped - pub Beczka Chmielu
+2019-07-23 21:46:25.097299|ontap_scrapped - pub Kandelabry
+2019-07-23 21:46:29.315767|ontap_scrapped - pub Morze Piwa
+2019-07-23 21:46:36.990249|ontap_scrapped - pub Dobry Zbeer
+2019-07-23 21:46:42.344575|ontap_scrapped - pub IBU Craft Beers
+2019-07-23 21:46:49.930451|ontap_scrapped - pub Stary Kufel
+2019-07-23 21:46:53.892242|ontap_scrapped - pub Piana
+2019-07-23 21:46:59.552559|ontap_scrapped - pub Absurdalna
+2019-07-23 21:47:04.774017|ontap_scrapped - pub Biała Małpa
+2019-07-23 21:47:11.235333|ontap_scrapped - pub Browariat
+2019-07-23 21:47:14.987241|ontap_scrapped - pub KATO
+2019-07-23 21:47:18.275727|ontap_scrapped - pub Kontynuacja
+2019-07-23 21:47:23.570140|ontap_scrapped - pub Śląska Prohibicja
+2019-07-23 21:47:26.005638|ontap_scrapped - pub Upojeni
+2019-07-23 21:47:32.214160|ontap_scrapped - pub Przystanek Dobra
+2019-07-23 21:47:36.148836|ontap_scrapped - pub Craft Beer PUB
+2019-07-23 21:47:42.934193|ontap_scrapped - pub Artefakt
+2019-07-23 21:47:47.061830|ontap_scrapped - pub BeerStreet
+2019-07-23 21:47:51.880591|ontap_scrapped - pub BroPub
+2019-07-23 21:47:57.238434|ontap_scrapped - pub Colombe
+2019-07-23 21:48:00.803165|ontap_scrapped - pub Coolturka Pub
+2019-07-23 21:48:05.409624|ontap_scrapped - pub Craftownia
+2019-07-23 21:48:11.064187|ontap_scrapped - pub Domówka Cafe
+2019-07-23 21:48:15.634574|ontap_scrapped - pub Hala Główna
+2019-07-23 21:48:21.309187|ontap_scrapped - pub House of Beer
+2019-07-23 21:48:27.551009|ontap_scrapped - pub Kufle i Widelce
+2019-07-23 21:48:31.090387|ontap_scrapped - pub Miejscówka
+2019-07-23 21:48:37.063068|ontap_scrapped - pub Multi Qlti Tap Bar
+2019-07-23 21:48:44.126576|ontap_scrapped - pub Nowy kraftowy
+2019-07-23 21:48:51.249382|ontap_scrapped - pub Omerta
+2019-07-23 21:48:58.974601|ontap_scrapped - pub Relaks
+2019-07-23 21:49:01.574352|ontap_scrapped - pub SPACE Craft Pub
+2019-07-23 21:49:07.211041|ontap_scrapped - pub Strefa Piwa
+2019-07-23 21:49:13.083780|ontap_scrapped - pub TEA Time
+2019-07-23 21:49:16.388899|ontap_scrapped - pub Ursa Maior
+2019-07-23 21:49:19.382102|ontap_scrapped - pub Viva La Pinta
+2019-07-23 21:49:24.121452|ontap_scrapped - pub Weźże Krafta
+2019-07-23 21:49:32.732739|ontap_scrapped - pub Chmiel i Słód
+2019-07-23 21:49:40.400075|ontap_scrapped - pub Browar Zakładowy - Wielokran
+2019-07-23 21:49:44.250168|ontap_scrapped - pub Dziki wschód
+2019-07-23 21:49:48.152837|ontap_scrapped - pub Hejnał Pijalnia
+2019-07-23 21:49:51.672645|ontap_scrapped - pub Just Crafted
+2019-07-23 21:49:58.530748|ontap_scrapped - pub Padbar
+2019-07-23 21:50:01.437850|ontap_scrapped - pub Św. Michał
+2019-07-23 21:50:09.991487|ontap_scrapped - pub Trybunalska
+2019-07-23 21:50:14.556057|ontap_scrapped - pub Bobby Burger
+2019-07-23 21:50:17.588301|ontap_scrapped - pub Chmielowa dolina
+2019-07-23 21:50:23.001881|ontap_scrapped - pub Piw Paw ul. Piotrkowska 147
+2019-07-23 21:50:48.423513|ontap_scrapped - pub Piwoteka Narodowa
+2019-07-23 21:50:53.192973|ontap_scrapped - pub Pub Spółdzielczy
+2019-07-23 21:50:59.180844|ontap_scrapped - pub Rollin Barrel
+2019-07-23 21:51:02.959975|ontap_scrapped - pub Warkot Klubopiwiarnia
+2019-07-23 21:51:07.243818|ontap_scrapped - pub Z Innej Beczki
+2019-07-23 21:51:14.146946|ontap_scrapped - pub Piwnica Winnica
+2019-07-23 21:51:18.924573|ontap_scrapped - pub Winus Club
+2019-07-23 21:51:23.936040|ontap_scrapped - pub Pijana Czapla
+2019-07-23 21:51:29.652169|ontap_scrapped - pub Vinyl Pub
+2019-07-23 21:51:34.525256|ontap_scrapped - pub Pub Browaru PROBUS
+2019-07-23 21:51:39.249149|ontap_scrapped - pub Delikatesy
+2019-07-23 21:51:44.345309|ontap_scrapped - pub Pod Arkadami
+2019-07-23 21:51:55.570120|ontap_scrapped - pub Piwiarnia u Bossmana
+2019-07-23 21:51:58.902681|ontap_scrapped - pub Piwosfera
+2019-07-23 21:52:02.739094|ontap_scrapped - pub Zbrojownia
+2019-07-23 21:52:09.421210|ontap_scrapped - pub Chmielnik
+2019-07-23 21:52:13.933657|ontap_scrapped - pub Dom Piwa
+2019-07-23 21:52:17.865148|ontap_scrapped - pub Fermentownia
+2019-07-23 21:52:23.864718|ontap_scrapped - pub Istny
+2019-07-23 21:52:30.580293|ontap_scrapped - pub Jabeerwocky Poznań
+2019-07-23 21:52:37.222404|ontap_scrapped - pub Lot Chmiela
+2019-07-23 21:52:40.611701|ontap_scrapped - pub Ministerstwo Browaru Ratajczaka
+2019-07-23 21:52:44.429277|ontap_scrapped - pub Ministerstwo Browaru Wroniecka
+2019-07-23 21:52:49.904557|ontap_scrapped - pub Napiwek Pub
+2019-07-23 21:52:53.722328|ontap_scrapped - pub Piwna Stopa - Craft Beer Pub
+2019-07-23 21:52:58.785614|ontap_scrapped - pub Van Gogh
+2019-07-23 21:53:02.704075|ontap_scrapped - pub Wściekły Chmiel
+2019-07-23 21:53:10.568037|ontap_scrapped - pub Browar Alternatywa
+2019-07-23 21:53:17.069499|ontap_scrapped - pub Zbeereźnik
+2019-07-23 21:53:22.424876|ontap_scrapped - pub Lord Jack
+2019-07-23 21:53:30.536292|ontap_scrapped - pub Stara Drukarnia
+2019-07-23 21:53:37.675797|ontap_scrapped - pub AleBrowar Sopot
+2019-07-23 21:53:42.157414|ontap_scrapped - pub Konsulat Dobrego Piwa
+2019-07-23 21:53:46.834636|ontap_scrapped - pub No.5
+2019-07-23 21:53:54.198117|ontap_scrapped - pub Cesarska
+2019-07-23 21:54:00.812478|ontap_scrapped - pub Český Film
+2019-07-23 21:54:04.836790|ontap_scrapped - pub Nowy Browar
+2019-07-23 21:54:09.779053|ontap_scrapped - pub Słody
+2019-07-23 21:54:14.113950|ontap_scrapped - pub The Office
+2019-07-23 21:54:18.944177|ontap_scrapped - pub Ambasada San Escobar
+2019-07-23 21:54:23.713476|ontap_scrapped - pub Przystanek Tleń
+2019-07-23 21:54:28.117226|ontap_scrapped - pub Carpe Kraft
+2019-07-23 21:54:30.237501|ontap_scrapped - pub Jan Olbracht
+2019-07-23 21:54:34.338119|ontap_scrapped - pub Krajina Piva
+2019-07-23 21:54:40.863844|ontap_scrapped - pub Gambrinus
+2019-07-23 21:54:45.308089|ontap_scrapped - pub Wielokran
+2019-07-23 21:54:51.753441|ontap_scrapped - pub A Może Pifko? PUB
+2019-07-23 21:54:56.171272|ontap_scrapped - pub Artezan Pub
+2019-07-23 21:54:59.603537|ontap_scrapped - pub Beczka
+2019-07-23 21:55:02.994410|ontap_scrapped - pub Beerhub
+2019-07-23 21:55:07.339203|ontap_scrapped - pub Chmielarnia
+2019-07-23 21:55:13.312769|ontap_scrapped - pub Chmielarnia Marszałkowska
+2019-07-23 21:55:17.967638|ontap_scrapped - pub Chmielołak
+2019-07-23 21:55:21.393759|ontap_scrapped - pub Craft Beer Muranów
+2019-07-23 21:55:26.502364|ontap_scrapped - pub Cuda na Kiju
+2019-07-23 21:55:31.543055|ontap_scrapped - pub Czeska Piviarnia
+2019-07-23 21:55:34.515203|ontap_scrapped - pub Czeska Piviarnia Hospoda
+2019-07-23 21:55:37.504989|ontap_scrapped - pub Cześć
+2019-07-23 21:55:41.222973|ontap_scrapped - pub Drugie Dno Multitap Bar
+2019-07-23 21:55:48.485778|ontap_scrapped - pub Drugie Dno Ochota
+2019-07-23 21:55:51.892623|ontap_scrapped - pub Gorączka Złota
+2019-07-23 21:55:54.663622|ontap_scrapped - pub Hoppiness
+2019-07-23 21:55:58.875047|ontap_scrapped - pub Jabeerwocky Centrum
+2019-07-23 21:56:04.136493|ontap_scrapped - pub Jabeerwocky Ursynów
+2019-07-23 21:56:07.545062|ontap_scrapped - pub Kicia Kocia
+2019-07-23 21:56:15.069235|ontap_scrapped - pub Kiełba w Gębie
+2019-07-23 21:56:18.087436|ontap_scrapped - pub Klubokawiarnia KEN54
+2019-07-23 21:56:22.326423|ontap_scrapped - pub Koktajl Mokotowa
+2019-07-23 21:56:26.072092|ontap_scrapped - pub Komisariat 17
+2019-07-23 21:56:28.707317|ontap_scrapped - pub Kufle i kapsle
+2019-07-23 21:56:34.655584|ontap_scrapped - pub Kufle i Kapsle Powiśle
+2019-07-23 21:56:39.059891|ontap_scrapped - pub Kufle i kapsle Żoliborz
+2019-07-23 21:56:42.361991|ontap_scrapped - pub Maryensztadt Craft beer & Food
+2019-07-23 21:56:47.514030|ontap_scrapped - pub Mikkeller Warsaw
+2019-07-23 21:56:56.289868|ontap_scrapped - pub Piana Bar
+2019-07-23 21:57:01.028069|ontap_scrapped - pub Piw Paw Parkingowa
+2019-07-23 21:57:17.235885|ontap_scrapped - pub Piw Paw ul.Foksal 16
+2019-07-23 21:57:37.378713|ontap_scrapped - pub Piwna sprawa
+2019-07-23 21:57:40.851775|ontap_scrapped - pub Piwny Kolektyw
+2019-07-23 21:57:47.082469|ontap_scrapped - pub PiwoWar
+2019-07-23 21:57:53.314531|ontap_scrapped - pub Przystanek Bemowo
+2019-07-23 21:57:57.344002|ontap_scrapped - pub Qufel Beer Park
+2019-07-23 21:58:01.709756|ontap_scrapped - pub Same Krafty
+2019-07-23 21:58:06.286361|ontap_scrapped - pub Same Krafty vis-à-vis
+2019-07-23 21:58:10.598117|ontap_scrapped - pub Stacja Grochów
+2019-07-23 21:58:14.603147|ontap_scrapped - pub Tarantino
+2019-07-23 21:58:19.044032|ontap_scrapped - pub The Taps
+2019-07-23 21:58:24.102757|ontap_scrapped - pub To co lubię
+2019-07-23 21:58:26.705691|ontap_scrapped - pub Vyčeska
+2019-07-23 21:58:32.461522|ontap_scrapped - pub Warszawski Łotr
+2019-07-23 21:58:40.917809|ontap_scrapped - pub Winylowa
+2019-07-23 21:58:45.485450|ontap_scrapped - pub 12 Krok
+2019-07-23 21:58:50.094642|ontap_scrapped - pub 4hops
+2019-07-23 21:58:55.166905|ontap_scrapped - pub Academus Cafe/Pub
+2019-07-23 21:58:58.918759|ontap_scrapped - pub AleBrowar
+2019-07-23 21:59:04.047045|ontap_scrapped - pub Browar Prost
+2019-07-23 21:59:08.842663|ontap_scrapped - pub Craftova
+2019-07-23 21:59:12.951739|ontap_scrapped - pub Graciarnia Pizzas & Crafts
+2019-07-23 21:59:16.404303|ontap_scrapped - pub Kontynuacja
+2019-07-23 21:59:22.132700|ontap_scrapped - pub La Famiglia Craft Beer & Pizza
+2019-07-23 21:59:26.602045|ontap_scrapped - pub Lamus
+2019-07-23 21:59:30.020506|ontap_scrapped - pub Marynka, Piwo i Aperitivo
+2019-07-23 21:59:35.184459|ontap_scrapped - pub Pinta Wrocław
+2019-07-23 21:59:41.257368|ontap_scrapped - pub Pub Browaru Stu Mostów
+2019-07-23 21:59:45.103473|ontap_scrapped - pub Szynkarnia
+2019-07-23 21:59:50.228502|ontap_scrapped - pub Targowa
+2019-07-23 21:59:55.281119|ontap_scrapped - pub VaffaNapoli
+2019-07-23 22:01:44.530607|error beer|bazyliszek|cydr + gruszka|1
+2019-07-23 22:01:44.555581|error beer|bazyliszek|ochota na malinę|1
+2019-07-23 22:01:44.580475|error beer|bazyliszek|cydr jabłkowy|1
+2019-07-23 22:01:45.109099|error beer|bazyliszek|cydr owoce leśne|1
+2019-07-23 22:01:45.792290|error beer|bazyliszek|marakuja|3
+2019-07-23 22:01:45.982751|error beer|bazyliszek|earl grey|2
+2019-07-23 22:01:47.172001|error beer|bazyliszek|american psycho ipa tropical|1
+2019-07-23 22:01:47.196588|error beer|bazyliszek|ddh ipa|1
+2019-07-23 22:01:47.554538|error beer|bazyliszek|bananowa chmielna|2
+2019-07-23 22:01:48.383485|error beer|bazyliszek|royal merlot|1
+2019-07-23 22:01:49.071131|error beer|bazyliszek|twój stary porter|1
+2019-07-23 22:01:49.096064|error beer|bazyliszek|scotish strong ale ba|1
+2019-07-23 22:01:49.287617|error beer|bazyliszek|scotch strong ale|1
+2019-07-23 22:01:49.483260|error beer|bazyliszek|india pale saison|2
+2019-07-23 22:01:49.670766|error beer|bazyliszek|dzika gęś|2
+2019-07-23 22:01:49.878559|error beer|bazyliszek|mongosław|1
+2019-07-23 22:01:49.902254|error beer|bazyliszek|dzika kłodawianka|1
+2019-07-23 22:01:49.925270|error beer|bazyliszek|atak karmelu|1
+2019-07-23 22:01:49.949999|error beer|bazyliszek|ssa ii|1
+2019-07-23 22:02:01.425331|error beer|browar pinta|son of a birch 9,0°|1
+2019-07-23 22:02:12.402484|error beer|stu mostów|art+ 26|1
+2019-07-23 22:02:24.425837|error beer|trzech kumpli|double panipani|2
+2019-07-23 22:02:35.275057|error beer|hopium|hans kłoss|1
+2019-07-23 22:02:35.797808|error beer|hopium|hurk hopgun|1
+2019-07-23 22:02:45.573884|error beer|pracownia piwa|pszeniczne|3
+2019-07-23 22:02:45.758326|error beer|pracownia piwa|mr. hard's rocks milk|1
+2019-07-23 22:02:46.914413|error beer|pracownia piwa|mr. hard's rocks peated|1
+2019-07-23 22:02:48.050057|error beer|pracownia piwa|wiezen|1
+2019-07-23 22:02:56.658010|error beer|maryensztadt|brewmaster edition - kwiecień|1
+2019-07-23 22:02:57.658097|error beer|maryensztadt|projekt 30#4|2
+2019-07-23 22:02:57.998030|error beer|maryensztadt|barrel aged projekt chocolate rye ris jack daniels whiskey b.a.|1
+2019-07-23 22:02:58.021032|error beer|maryensztadt|barrel aged projekt barley wine laphroaig whisky 2018|1
+2019-07-23 22:02:58.561718|error beer|maryensztadt|barrel aged pojekt ris stout vanilla & coconut bourbon|1
+2019-07-23 22:02:58.584770|error beer|maryensztadt|żywot barley'a|1
+2019-07-23 22:03:08.285308|error beer|alebrowar|ddh dipa new england simcoe + mosaic|1
+2019-07-23 22:03:08.310349|error beer|alebrowar|ale świeże|1
+2019-07-23 22:03:18.399064|error beer|browar palatum|wawerskie jasne|3
+2019-07-23 22:03:26.865709|error beer|piwne podziemie|rich 'n creamy|1
+2019-07-23 22:03:29.307218|error beer|piwne podziemie|lemoniada - pink guava and mango|1
+2019-07-23 22:03:29.489667|error beer|piwne podziemie|mango and pineapple sour lemonade|1
+2019-07-23 22:03:29.672424|error beer|piwne podziemie|creamy billy|1
+2019-07-23 22:03:38.261062|error beer|lindemans|pecheresse|3
+2019-07-23 22:03:38.437539|error beer|lindemans|summerberry strawberry|1
+2019-07-23 22:03:38.617578|error beer|lindemans|kiriek|1
+2019-07-23 22:03:57.852440|error beer|artezan|samiec alfa 2019|1
+2019-07-23 22:03:58.511058|error beer|artezan|chcesz ciasteczko? bba|1
+2019-07-23 22:04:06.420474|error beer|deer bear|polski krafcik vol. 7|6
+2019-07-23 22:04:07.234435|error beer|deer bear|laidback kiwiu0026lime|1
+2019-07-23 22:04:16.148065|error beer|maltgarden|let’s get undressed|1
+2019-07-23 22:04:16.747043|error beer|maltgarden|let's get undressed|6
+2019-07-23 22:04:25.351053|error beer|litovel|litovel medovy special|4
+2019-07-23 22:04:25.373931|error beer|litovel|litovel premiuim 12|1
+2019-07-23 22:04:25.395694|error beer|litovel|litovel pszeniczny|3
+2019-07-23 22:04:25.883467|error beer|litovel|litovel|2
+2019-07-23 22:04:26.031198|error beer|litovel|litovel pšeničný ležák|3
+2019-07-23 22:04:26.367926|error beer|litovel|pszeniczne|2
+2019-07-23 22:04:34.508905|error beer|ziemia obiecana|chyba ty!|7
+2019-07-23 22:04:34.689371|error beer|ziemia obiecana|iskierka|4
+2019-07-23 22:04:43.241392|error beer|podgórz|eldorado|2
+2019-07-23 22:04:52.372402|error beer|nepomucen|de ja vu 2.0|1
+2019-07-23 22:04:52.701947|error beer|nepomucen|cloudy|1
+2019-07-23 22:04:52.724996|error beer|nepomucen|forest ipa|2
+2019-07-23 22:04:53.218507|error beer|nepomucen|high oats koyt|1
+2019-07-23 22:05:11.249394|error beer|brokreacja|zainwestuj w browar!|1
+2019-07-23 22:05:13.087823|error beer|brokreacja|imperiany nafciarz islay blend ba|1
+2019-07-23 22:05:13.268202|error beer|brokreacja|deep dark sea bourbon ba vintage 2019|1
+2019-07-23 22:05:21.939895|error beer|łańcut|rajski plyn|1
+2019-07-23 22:06:04.346870|error beer|dwóch braci|combat beer|1
+2019-07-23 22:06:04.368598|error beer|dwóch braci|jumper|4
+2019-07-23 22:06:13.177240|error beer|dziki wschód|duch mango|6
+2019-07-23 22:06:13.199417|error beer|dziki wschód|czarny jastrząb|1
+2019-07-23 22:06:22.798415|error beer|browar rockmill|maverick|1
+2019-07-23 22:06:32.735408|error beer|browar golem|lilith bourbon ba - et/of|1
+2019-07-23 22:06:32.758462|error beer|browar golem|sunstroke|3
+2019-07-23 22:06:41.331459|error beer|raduga|same like it hot|1
+2019-07-23 22:06:42.148409|error beer|raduga|lift to the scafold|1
+2019-07-23 22:06:50.933163|error beer|szpunt|marlé|1
+2019-07-23 22:06:50.956213|error beer|szpunt|poproszę szóstkę!|1
+2019-07-23 22:06:59.802688|error beer|holba|brusinka s matou|1
+2019-07-23 22:07:16.254284|error beer|czarna owca|najlepszego|1
+2019-07-23 22:07:16.427592|error beer|czarna owca|flamingo|1
+2019-07-23 22:07:35.109342|error beer|kraftwerk|bavarian gold|1
+2019-07-23 22:07:35.133040|error beer|kraftwerk|light bulb|1
+2019-07-23 22:07:43.092305|error beer|spółdzielczy|latający holender rum jamaica ba|1
+2019-07-23 22:07:43.452328|error beer|spółdzielczy|nasze pierwsze|1
+2019-07-23 22:07:44.479590|error beer|spółdzielczy|różkowe 2.0|1
+2019-07-23 22:07:52.055786|error beer|wino|fragola|1
+2019-07-23 22:07:52.077700|error beer|wino|pinot noir|2
+2019-07-23 22:07:52.098516|error beer|wino|cabernet sauvignon|1
+2019-07-23 22:07:52.120357|error beer|wino|merlot|2
+2019-07-23 22:07:52.141558|error beer|wino|zweigelt|1
+2019-07-23 22:07:52.162501|error beer|wino|irsai oliver|1
+2019-07-23 22:07:52.192517|error beer|wino|pinot gris|1
+2019-07-23 22:07:52.213771|error beer|wino|chardonnay|1
+2019-07-23 22:07:52.235636|error beer|wino|traminer|1
+2019-07-23 22:07:52.257051|error beer|wino|sauvignion blanc|1
+2019-07-23 22:07:52.277545|error beer|wino|saint laurent|1
+2019-07-23 22:07:52.298607|error beer|wino|riesling|1
+2019-07-23 22:08:00.426623|error beer|browar amber|koźlak|2
+2019-07-23 22:08:16.939181|error beer|browar fortuna|grodziska white ipa|3
+2019-07-23 22:08:26.222810|error beer|jabeerwocky|aparat|1
+2019-07-23 22:08:34.187634|error beer|kormoran|rewolucje warmińskie|1
+2019-07-23 22:08:43.172908|error beer|profesja|władca czasu|1
+2019-07-23 22:08:52.702817|error beer|hopito|zombie|2
+2019-07-23 22:09:01.862590|error beer|antybrowar|proforma|1
+2019-07-23 22:09:02.522429|error beer|antybrowar|prolog|1
+2019-07-23 22:09:11.654978|error beer|przystanek tleń|polskie pale ale|1
+2019-07-23 22:09:11.832143|error beer|przystanek tleń|milkshake ipa|1
+2019-07-23 22:09:15.664294|error brewery|na jurze|11
+2019-07-23 22:09:23.767117|error beer|de facto|lady white|1
+2019-07-23 22:09:31.882138|error beer|warkot|citra ale|1
+2019-07-23 22:09:32.208671|error beer|warkot|ris + wanilia|1
+2019-07-23 22:09:36.779607|error brewery|wrężel|11
+2019-07-23 22:09:44.503589|error beer|moczybroda|light sour delicious - lsd|1
+2019-07-23 22:09:49.250031|error brewery|cześć brat!|10
+2019-07-23 22:09:53.032341|error brewery|recraft|10
+2019-07-23 22:09:56.896302|error brewery|minibrowar spiz|10
+2019-07-23 22:10:05.024496|error beer|rohozec|skalak tmave|1
+2019-07-23 22:10:05.048087|error beer|rohozec|skalak 13%|1
+2019-07-23 22:10:13.340522|error beer|prost|american wheat z herbatą|1
+2019-07-23 22:10:17.930545|error brewery|grimbergen|10
+2019-07-23 22:10:48.819616|error beer|kazimierz|król chmielu|1
+2019-07-23 22:10:49.323326|error beer|kazimierz|ristafa non-ba|1
+2019-07-23 22:11:39.965747|error beer|incognito|mango wheat|3
+2019-07-23 22:11:39.987166|error beer|incognito|new zealand new england ipa|2
+2019-07-23 22:11:40.008102|error beer|incognito|ddh polish hops|2
+2019-07-23 22:11:40.029971|error beer|incognito|citrus pale ale|1
+2019-07-23 22:11:40.051701|error beer|incognito|black ipa|1
+2019-07-23 22:13:22.922814|error beer|browar jana|owocowy hefeweizen|1
+2019-07-23 22:13:31.255130|error beer|za miastem|siła spokoju - sherry oloroso|1
+2019-07-23 22:13:39.148632|error beer|brodacz|playground no. 12|1
+2019-07-23 22:13:39.482743|error beer|brodacz|playground 8|1
+2019-07-23 22:13:39.809182|error beer|brodacz|tiramisu imperial milk stout|1
+2019-07-23 22:13:47.297177|error beer|krakonos|svetly lezak|1
+2019-07-23 22:13:47.318501|error beer|krakonos|tmave vycepni|1
+2019-07-23 22:13:47.651319|error beer|krakonos|krakonos 11|2
+2019-07-23 22:13:47.673316|error beer|krakonos|krakonoš kvasnicovy|1
+2019-07-23 22:13:55.602630|error beer|ale browar|simcoe & mosaic ddh dipa|1
+2019-07-23 22:13:55.929982|error beer|ale browar|new wave gose morela|1
+2019-07-23 22:13:55.952530|error beer|ale browar|smokey joe|1
+2019-07-23 22:14:20.682206|error beer|stary rynek|milk stout nitro|1
+2019-07-23 22:14:20.704260|error beer|stary rynek|ipa light|1
+2019-07-23 22:14:32.658397|error brewery|cydr dobroński|7
+2019-07-23 22:14:40.664052|error beer|t.e.a. time brewpub|smooth hoperator|1
+2019-07-23 22:14:40.686417|error beer|t.e.a. time brewpub|land of hops ang glory|1
+2019-07-23 22:14:40.708367|error beer|t.e.a. time brewpub|london stout|1
+2019-07-23 22:14:40.730342|error beer|t.e.a. time brewpub|podgórskie|1
+2019-07-23 22:14:48.439853|error beer|primator|primátor premium lager 12°|1
+2019-07-23 22:14:48.461727|error beer|primator|primátor weizen|2
+2019-07-23 22:14:48.483359|error beer|primator|dark lager|3
+2019-07-23 22:14:48.505373|error beer|primator|poltmavy|1
+2019-07-23 22:14:56.163270|error beer|minister|minister na targu pils z arbuzem i pomarańczą|2
+2019-07-23 22:14:56.184785|error beer|minister|pilzner|1
+2019-07-23 22:15:04.099178|error beer|browar zamkowy cieszyn|juicy ipa|2
+2019-07-23 22:15:08.079884|error brewery|browar olimp|7
+2019-07-23 22:15:11.931190|error brewery|abbaye de leffe|7
+2019-07-23 22:15:19.939108|error beer|pivovar svijany|maz|1
+2019-07-23 22:15:28.279371|error beer|wagabunda|kilt|1
+2019-07-23 22:15:32.278309|error brewery|brooklyn brewing|6
+2019-07-23 22:15:48.349435|error beer|velke popovice|kozel cerny|4
+2019-07-23 22:15:56.269982|error beer|alternatywa|desitka z miodem|1
+2019-07-23 22:15:56.594686|error beer|alternatywa|bez alkoholowe|1
+2019-07-23 22:15:56.617342|error beer|alternatywa|woda chmielowa|1
+2019-07-23 22:16:04.439208|error beer|ursa maior|minimalista|1
+2019-07-23 22:16:12.846951|error beer|pivovar rohozec|skalák tmave|1
+2019-07-23 22:16:12.868103|error beer|pivovar rohozec|skalak|1
+2019-07-23 22:16:12.889047|error beer|pivovar rohozec|skalaku002711|1
+2019-07-23 22:16:12.910573|error beer|pivovar rohozec|skalak 12°|1
+2019-07-23 22:16:12.932486|error beer|pivovar rohozec|dvanactka|2
+2019-07-23 22:16:29.664083|error beer|obolon|obolon białe|1
+2019-07-23 22:16:29.687957|error beer|obolon|białe|3
+2019-07-23 22:16:29.711933|error beer|obolon|obolon velvet|1
+2019-07-23 22:16:37.603641|error beer|jastrzębie|jastrzębskie owoce|1
+2019-07-23 22:17:03.097803|error beer|shepherd neame|spitfire kentish ale|1
+2019-07-23 22:17:11.029216|error beer|smykan|sabro bez|1
+2019-07-23 22:17:11.066227|error beer|smykan|stary sad 2018 grochówka starking|1
+2019-07-23 22:17:11.087154|error beer|smykan|antoni wisienka|2
+2019-07-23 22:17:11.108788|error beer|smykan|stary sad|1
+2019-07-23 22:17:18.605293|error beer|monsters|ekke ekke|2
+2019-07-23 22:17:18.627217|error beer|monsters|sour ekke ekke|3
+2019-07-23 22:17:26.439034|error beer|socho|daj chapa|2
+2019-07-23 22:17:26.460348|error beer|socho|#mondaymotivation|1
+2019-07-23 22:17:35.580366|error beer|lervig|saskatoon berry|1
+2019-07-23 22:17:43.562691|error beer|h2o|jack|3
+2019-07-23 22:17:43.584192|error beer|h2o|cydr joker owoce leśne|1
+2019-07-23 22:17:43.605912|error beer|h2o|queen|1
+2019-07-23 22:18:00.697038|error beer|plzeňský prazdroj|pilsner urquell|3
+2019-07-23 22:18:16.661513|error beer|śląski alternatywa|podwójna pszenica|1
+2019-07-23 22:18:20.658227|error brewery|stacja winiarska|4
+2019-07-23 22:18:24.387058|error brewery|culaccino|4
+2019-07-23 22:18:32.339028|error beer|zamecky pivovar frydlant|albrecht ipa|1
+2019-07-23 22:18:40.192758|error beer|brouwerij hoegaarden|hoegaarden|4
+2019-07-23 22:18:44.031721|error brewery|cieszyn/pspd|4
+2019-07-23 22:18:51.825206|error beer|probus|summer stout|2
+2019-07-23 22:19:08.326994|error beer|maly rohozec|skalak 11°|1
+2019-07-23 22:19:16.290316|error beer|prosecco|prosecco|2
+2019-07-23 22:19:16.310540|error beer|prosecco|prosseco|2
+2019-07-23 22:19:24.020889|error beer|solina|otryt|2
+2019-07-23 22:19:24.194034|error beer|solina|przystanek bieszczady|1
+2019-07-23 22:19:39.702981|error beer|absztyfikant|pass this love|2
+2019-07-23 22:19:39.723921|error beer|absztyfikant|jupikajej 4.0.|1
+2019-07-23 22:19:43.787759|error brewery|probus kraft|4
+2019-07-23 22:20:04.320671|error brewery|browary regionalne wąsosz|4
+2019-07-23 22:20:11.839221|error beer|+h2o|cydr ace jabłkowy|2
+2019-07-23 22:20:11.861653|error beer|+h2o|joker|1
+2019-07-23 22:20:11.881925|error beer|+h2o|cydr gruszkowy|1
+2019-07-23 22:20:19.687882|error beer|bojan|bojan miodowe|1
+2019-07-23 22:20:27.399569|error beer|zaścianki|soplicowe złote|1
+2019-07-23 22:20:27.421369|error beer|zaścianki|pilum|1
+2019-07-23 22:20:35.456275|error beer|nowy browar szczecin|ddh apa|1
+2019-07-23 22:20:43.350106|error beer|such a beer|such a tomahałk|1
+2019-07-23 22:20:51.307894|error beer|zodiak|lew mocne|1
+2019-07-23 22:20:51.329921|error beer|zodiak|lew mocne niefiltrowane|1
+2019-07-23 22:20:51.351000|error beer|zodiak|lew mocny|1
+2019-07-23 22:21:12.320555|error brewery|piu' fizz|3
+2019-07-23 22:21:20.433347|error beer|pohjala|ulo|1
+2019-07-23 22:21:28.981648|error beer|fuller’s|london black cab stout|1
+2019-07-23 22:21:36.412870|error beer|piwo z żuka|podroze kormorana american ipa|1
+2019-07-23 22:22:02.137780|error beer|księży młyn|podroze kormorana american ipa|2
+2019-07-23 22:22:02.162280|error beer|księży młyn|przędzalniana|1
+2019-07-23 22:22:06.050012|error brewery|brouwerij verhaeghe vichte|3
+2019-07-23 22:22:13.875148|error beer|chyliczki|szara reneta 2018|1
+2019-07-23 22:22:45.059093|error beer|to ol|mr pink 2019|1
+2019-07-23 22:22:45.122956|error beer|to ol|mr white 2019|1
+2019-07-23 22:22:45.152049|error beer|to ol|goliat bourbon edition|1
+2019-07-23 22:22:49.082127|error brewery|hoppy beaver/kilka słów o piwie|3
+2019-07-23 22:22:56.561903|error beer|brovarnia gdańsk|złoto brovarni jasne|1
+2019-07-23 22:22:56.741700|error beer|brovarnia gdańsk|sunset ale|1
+2019-07-23 22:23:04.632368|error beer|cydr pełnia|cydr old england|2
+2019-07-23 22:23:08.692082|error brewery|alebrowar / braukunstkeller|3
+2019-07-23 22:23:16.208050|error beer|ayinger|celebrator|1
+2019-07-23 22:23:16.229944|error beer|ayinger|bräuweisse|1
+2019-07-23 22:23:16.252872|error beer|ayinger|kirtabier|1
+2019-07-23 22:23:41.199653|error beer|amager bryghus|talents & legends brewski|1
+2019-07-23 22:23:57.190083|error beer|vilniaus alus|wileńskie korzenne|2
+2019-07-23 22:23:57.212075|error beer|vilniaus alus|wileńskie niefiltrowane|1
+2019-07-23 22:24:05.186431|error beer|mazurski|mazurski lager|1
+2019-07-23 22:24:05.208678|error beer|mazurski|mazurski lager ciemny|1
+2019-07-23 22:24:05.229444|error beer|mazurski|mazurskie pszeniczne|1
+2019-07-23 22:24:20.789575|error beer|founders|green zebra|1
+2019-07-23 22:24:20.810536|error beer|founders|blushing monk|1
+2019-07-23 22:24:20.832395|error beer|founders|kbs kentucky breakfast stout|1
+2019-07-23 22:24:29.487965|error brewery|wino włochy|3
+2019-07-23 22:24:45.653266|error beer|jagiełło|św. michał miodowe|1
+2019-07-23 22:24:53.506195|error beer|jantoń|cydr dobroński|1
+2019-07-23 22:25:01.201714|error beer|san martino|frizzin|2
+2019-07-23 22:25:01.223703|error beer|san martino|frizzin vino|1
+2019-07-23 22:25:09.454944|error beer|krynica|bianka|1
+2019-07-23 22:25:09.475944|error beer|krynica|kult pszeniczne|2
+2019-07-23 22:25:13.321311|error brewery|kazimierz/house of beer|3
+2019-07-23 22:25:17.208374|error brewery|kufle i kapsle / szpunt|3
+2019-07-23 22:25:24.792181|error beer|wilk/recraft|polish hops greatest hitc|3
+2019-07-23 22:25:28.649287|error brewery|uiltje brewing company|3
+2019-07-23 22:25:40.243475|error brewery|frizzante|2
+2019-07-23 22:25:47.838680|error beer|sierpc|kasztelan jasne pełne|1
+2019-07-23 22:25:47.861184|error beer|sierpc|kasztelan niepasterzyowane|1
+2019-07-23 22:26:03.434417|error beer|boon|boon framboise|1
+2019-07-23 22:26:03.456623|error beer|boon|geuze boon sélection|1
+2019-07-23 22:26:19.276534|error beer|namysłów|namysłów pils|1
+2019-07-23 22:26:27.864909|error beer|mestansky pivovar|otakar světlý ležák 11°|1
+2019-07-23 22:26:27.887191|error beer|mestansky pivovar|polička|1
+2019-07-23 22:26:51.199016|error beer|hosl|hefeweizen hell|1
+2019-07-23 22:26:51.219300|error beer|hosl|weissbier resi|1
+2019-07-23 22:26:58.822033|error beer|pivovar nachod|primator 11|2
+2019-07-23 22:27:17.956221|error brewery|jabłecznik trzebnicki|2
+2019-07-23 22:27:25.664808|error beer|svijany|svijany weizenbier|1
+2019-07-23 22:27:37.670009|error brewery|deer bear / szynkarnia|2
+2019-07-23 22:27:53.765904|error beer|pivovar náchod|primátor světlý ležák 12°|1
+2019-07-23 22:28:13.292330|error brewery|bianco vino|2
+2019-07-23 22:28:25.085354|error brewery|cydr ignaców|2
+2019-07-23 22:28:28.960785|error brewery|alebrowar / af brew|2
+2019-07-23 22:28:36.622773|error beer|twigg|saturnalia|1
+2019-07-23 22:28:54.815905|error beer|kernel|ipa columbus|1
+2019-07-23 22:29:02.415806|error beer|pivovar dobruška - staročeský pivovárek|dobrušská světlý ležák 11°|1
+2019-07-23 22:29:06.504991|error brewery|vasco da goa/spółdzielczy|2
+2019-07-23 22:29:18.238412|error brewery|browar podgórz|2
+2019-07-23 22:29:29.278321|error beer|ukiel|witbier|1
+2019-07-23 22:29:51.983693|error beer|dieu du ciel|peche mortel 2018|1
+2019-07-23 22:30:00.101303|error beer|ritterguts|bärentöter sour gose bock|2
+2019-07-23 22:30:03.969641|error brewery|cydr polski|2
+2019-07-23 22:30:19.378721|error beer|hoppy lab|podroze kormorana american ipa|1
+2019-07-23 22:30:23.405005|error brewery|prossecco|2
+2019-07-23 22:30:27.277477|error brewery|alebrowar/birbant|2
+2019-07-23 22:30:43.055949|error beer|zmajska pivovara & pinta|dragon's pint|2
+2019-07-23 22:30:50.453110|error beer|murphy|murphys irish stout|2
+2019-07-23 22:31:02.474570|error brewery|alebrowar/pinta|2
+2019-07-23 22:31:06.381241|error brewery|baćkoriu|2
+2019-07-23 22:31:30.033839|error beer|w cieniu|jasne|2
+2019-07-23 22:31:37.574065|error beer|stone|notorious p.o.g.|1
+2019-07-23 22:31:37.595715|error beer|stone|ipa|1
+2019-07-23 22:31:57.174839|error beer|warkot& funky fluid|gose malinowe|2
+2019-07-23 22:32:01.128078|error brewery|monte santi|2
+2019-07-23 22:32:05.023614|error brewery|pivovar konrad|2
+2019-07-23 22:32:08.910317|error brewery|brewery hills|2
+2019-07-23 22:32:16.439767|error beer|tey|pszenica|1
+2019-07-23 22:32:16.471009|error beer|tey|pils|1
+2019-07-23 22:32:46.459390|error beer|brouwerij de molen|hel&verdoemenis bowmore ba|1
+2019-07-23 22:33:07.217064|error brewery|dolium vini|1
+2019-07-23 22:33:11.096341|error brewery|.|1
+2019-07-23 22:33:19.274835|error beer|macedonia|czarna porzeczka|1
+2019-07-23 22:33:26.732896|error beer|spinolo|bianco frizzante|1
+2019-07-23 22:33:38.606671|error brewery|bielawa - sowie piwo z gór|1
+2019-07-23 22:33:42.484735|error brewery|jan olbracht browar staromiejski/deer bear|1
+2019-07-23 22:33:46.391410|error brewery|cydrownia smykan|1
+2019-07-23 22:33:54.120678|error beer|bacchus|bacchus kriek|1
+2019-07-23 22:34:07.123128|error brewery|restauracja tabun|1
+2019-07-23 22:34:14.567826|error beer|moor|dark alliance|1
+2019-07-23 22:34:18.408465|error brewery|raciborskie|1
+2019-07-23 22:34:22.369928|error brewery|evil twin/westbrook|1
+2019-07-23 22:34:45.616905|error beer|opat|svetly lezak 12|1
+2019-07-23 22:35:02.128309|error beer|pivovar opat|opat|1
+2019-07-23 22:35:06.116168|error brewery|knysperk|1
+2019-07-23 22:35:09.991299|error brewery|kingpin / freigeist bierkultur / the barn|1
+2019-07-23 22:35:25.366358|error beer|dobry zbeer|piwo jopejskie red wine ba|1
+2019-07-23 22:35:29.239843|error brewery|cydr bursztynowy|1
+2019-07-23 22:35:33.096507|error brewery|pivovar primator|1
+2019-07-23 22:35:41.153846|error beer|wittichenauer|glaabs natur radler|1
+2019-07-23 22:35:56.669721|error beer|brauerei gebr. maisel|maisel's weisse|1
+2019-07-23 22:36:04.454186|error beer|huta piwa|berliner weisse|1
+2019-07-23 22:36:12.213542|error beer|pivovar strakonice|dudak 12|1
+2019-07-23 22:36:16.065185|error brewery|cydr smykan|1
+2019-07-23 22:36:19.911448|error brewery|weźże krafta|1
+2019-07-23 22:36:27.726057|error beer|pivovar lobkowicz|lobkowicz premium černý 12°|1
+2019-07-23 22:36:39.782647|error brewery|miłosław|1
+2019-07-23 22:37:05.054491|error beer|bernard|tmavy lezak|1
+2019-07-23 22:37:13.268765|error beer|drugie dno|pineapple jack|1
+2019-07-23 22:37:24.901742|error brewery|la vite vivissimo|1
+2019-07-23 22:37:41.497284|error beer|partizan brewing|lemongrass saison|1
+2019-07-23 22:38:06.597421|error beer|pivovary staropramen|niefiltrowane|1
+2019-07-23 22:38:14.213307|error beer|browariat|weiss'n' easy|1
+2019-07-23 22:38:29.871807|error beer|o’hara’s|o'hara's irish stout|1
+2019-07-23 22:38:33.732899|error brewery|sir beer x zelter x browar domowy gorcek|1
+2019-07-23 22:38:49.317459|error beer|piwpaw|lager 11,5blg|1
+2019-07-23 22:38:53.213779|error brewery|cydr 7 sadów|1
+2019-07-23 22:39:01.332592|error beer|toccalmatto|dr caligari|1
+2019-07-23 22:39:08.761381|error beer|beverly hills|golden haze|1
+2019-07-23 22:39:37.238251|error brewery|zakładowy/pułapka|1
+2019-07-23 22:40:09.024977|error beer|grolsch|grolsch|1
+2019-07-23 22:40:12.981980|error brewery|dobroński|1
+2019-07-23 22:40:28.537274|error beer|robinsons|trooper|1
+2019-07-23 22:40:32.416117|error brewery|własna produkcja|1
+2019-07-23 22:40:36.289295|error brewery|cathead multitap/ konska grzywa|1
+2019-07-23 22:41:05.756735|error brewery|pivovsky i solipiwko|1
+2019-07-23 22:41:09.653385|error brewery|pinta / brasserie du pays flamand|1
+2019-07-23 22:41:17.519241|error beer|tempest brewing|seasons project: spring|1
+2019-07-23 22:41:32.881417|error beer|jezek|jezeku002711|1
+2019-07-23 22:41:40.705287|error beer|zámecký pivovar frýdlant|albrecht vital|1
+2019-07-23 22:41:56.715663|error beer|pivovar poutnik|poutnik|1
+2019-07-23 22:42:00.608946|error brewery|wino czechy|1
+2019-07-23 22:42:08.075580|error beer|+ h2o|ten|1
+2019-07-23 22:42:19.720022|error brewery|cydr dzik|1
+2019-07-23 22:42:23.610489|error brewery|czeska piviarnia|1
+2019-07-23 22:42:27.480915|error brewery|recraft/polishhops|1
+2019-07-23 22:42:35.179044|error beer|nova paka|novopackie krystof|1
+2019-07-23 22:42:39.046451|error brewery|obywatelski s.a.|1
+2019-07-23 22:42:46.703434|error beer|kofola|kofola|1
+2019-07-23 22:42:50.605345|error brewery|wino macedonia|1
+2019-07-23 22:42:59.693575|error beer|alesmith|speedway stout - viet. coffee|1
+2019-07-23 22:43:03.585148|error brewery|o’hara’s (carlow brewing company)|1
+2019-07-23 22:43:12.208718|error beer|partizan|london stout|1
+2019-07-23 22:43:23.820124|error beer|tired hands|saison hands batch24|1
+2019-07-23 22:43:31.292373|error beer|vin-kon s.a|cydr jabłkowy słodki|1
+2019-07-23 22:43:50.888860|error brewery|przystanek bemowo & bastion|1
+2019-07-23 22:43:54.739896|error brewery|viva la pinta|1
+2019-07-23 22:44:10.842860|error beer|weihenstepan|weihenstepaner hefeweissbier|1
+2019-07-23 22:44:26.231672|error beer|bianco|vino frizzante|1
+2019-07-23 22:44:29.951823|error brewery|mpwik|1
+2019-07-23 22:44:37.843057|error beer|hopick|vengaboy|1
+2019-07-23 22:45:12.527585|error beer|de molen|hell & verdoemenis hazelnoot|1
+2019-07-23 22:45:16.397327|error brewery|tradycynis|1
+2019-07-23 22:45:28.287751|error brewery|inne beczki/brodacz|1
+2019-07-23 22:45:35.824822|error beer|pivovar jihlava|ježek|1
+2019-07-23 22:45:44.153289|error beer|litwa|white baltas|1
+2019-07-23 22:46:07.828046|error beer|omerta|dobre pszeniczne|1
+2019-07-23 22:46:15.541001|error beer|pivovar mazák|mazak imperial stout 21°|1
+2019-07-23 22:46:19.403938|error brewery|all in/lervig/poppels|1
+2019-07-23 22:46:36.149892|error beer|deer bear & dugges|plum spices|1
+2019-07-23 22:46:43.871405|error beer|cudo|kombucha|1
+2019-07-23 22:46:59.880637|error beer|lemberger|lemberger|1
+2019-07-23 22:47:03.747977|error brewery|inne beczki / haand bryggeriet|1
+2019-07-23 22:47:11.180240|error beer|klumbacher|kapuziner|1
+2019-07-23 22:47:18.763989|error beer|beerlab|choco coco stout|1
+2019-07-23 22:47:22.554564|error brewery|pardubicky pivovar s.a.|1
+2019-07-23 22:47:30.122510|error beer|staropramen|czeski lager|1
+2019-07-23 22:47:37.591431|error beer|cesky pivovar|zbeereźne|1
+2019-07-23 22:47:41.460364|error brewery|wino węgry|1
+2019-07-23 22:47:45.309217|error brewery|ayinger privatbrauerei|1
+2019-07-23 22:48:15.209537|error brewery|piwne podziemie / z innej beczki|1
+2019-07-23 22:48:22.895212|error beer|włoskie|wino musujące|1
+2019-07-23 22:48:47.348687|error beer|pivovar frydlant|frydrant ipa 14°|1
+2019-07-23 22:48:55.055144|error beer|the flying inn & pinta stańczyk|stańczyk|1
+2019-07-23 22:48:58.915491|error brewery|leon della rosa|1
+2019-07-23 22:49:02.711883|error brewery|kazimierz/harpagan|1
+2019-07-23 22:49:10.581523|error beer|lobau|porter truskawkowy|1
+2019-07-23 22:49:14.526103|error brewery|evil twin / westbrook|1
+2019-07-23 22:49:29.687679|error beer|wittichenau|wittichenauer pils|1
+2019-07-23 22:49:41.187981|error brewery|blanche de namur|1
+2019-07-23 22:49:48.531830|error beer|kout na sumave|koutska 10|1
+2019-07-23 22:49:52.397780|error brewery|poker drink|1
+2019-07-23 22:49:56.271169|error brewery|frankovka|1
+2019-07-23 22:50:35.695841|error beer|hösl|hefeweissbier hell|1
+2019-07-23 22:51:00.549799|error beer|cold brew|nitro coffee|1
+2019-07-23 22:51:11.929668|error brewery|wino polska|1
+2019-07-23 22:51:15.870489|error brewery|wrężel / surge|1
+2019-07-23 22:51:19.695149|error brewery|łańcut/pinta|1
+2019-07-23 22:51:27.364008|error beer|bastion|sabro american pale ale|1
+2019-07-23 22:51:42.950687|error beer|nook|tea time|1
+2019-07-23 22:52:02.573840|error brewery|wehikuł|1
+2019-07-23 22:52:06.287218|error brewery|dugges|1
+2019-07-23 22:52:10.150403|error brewery|černá hora|1
+2019-07-23 22:52:14.066318|error brewery|cracow beer academy/grzegorz sołtysik|1
+2019-07-23 22:52:17.948122|error brewery|#barbakan|1
+2019-07-23 22:52:21.863452|error brewery|hanušovic|1
+2019-07-23 22:52:25.717421|error brewery|brauerei maisel|1
+2019-07-23 22:52:29.592548|error brewery|piwna stacja|1
+2019-07-23 22:52:39.596862|error beer|belgian ale|delirium tremens|1
+2019-07-23 22:52:54.401317|error brewery|senojo vilniaus|1
+2019-07-23 22:53:08.451374|error brewery|minipivovar skřečoňský žabák|1
+2019-07-23 22:53:48.746832|error beer|beck's|beck's|1
+2019-07-23 22:54:56.820300|error beer|house of beer|house of beer 01|1
+2019-07-23 22:55:00.765011|error brewery|wino chile|1
+2019-07-23 22:55:12.308043|error brewery|north brewing/browar stu mostów|1
+2019-07-23 22:55:20.247151|error beer|łańcut & lord jack|game over cycles|1
+2019-07-23 22:55:28.476601|error beer|pivovar krakonoš|11|1
+2019-07-23 22:55:35.961545|error beer|alibi|alibi perry|1
+2019-07-23 22:55:44.707995|error beer|inbev|stella artois|1
+2019-07-23 22:55:48.546770|error brewery|looking for sun|1
+2019-07-23 22:55:52.384211|error brewery|pivovar trutnov|1
+2019-07-23 22:56:00.323236|error beer|maccari|spinolo vino frizzante|1
+2019-07-23 22:56:09.123537|error beer|pivovar vratislavicky|konrad|1
+2019-07-23 22:56:17.123828|error beer|kout na šumavě|kout 10°|1
+2019-07-23 22:56:24.836169|error beer|brlo & to ol|honefuld dipa|1
+2019-07-23 22:56:28.522871|error brewery|wino mołdawskie|1
+2019-07-23 22:56:32.335836|error brewery|weinstefaner|1
+2019-07-23 22:56:36.166729|error brewery|recraft/upojeni|1
+2019-07-23 22:56:39.980115|error brewery|zakladowy (kooperacja z browarem widawa)|1
+2019-07-23 22:56:47.815607|error beer|bocq|blanche dr namur|1
+2019-07-23 22:57:09.312895|error brewery|jägermeister|1
+2019-07-23 22:57:35.892177|error brewery|wino rpa|1
+2019-07-23 22:57:39.596534|error brewery|de molen/bakunin|1
+2019-07-23 22:57:43.424348|error brewery|vigne verdi|1
+2019-07-23 22:57:47.268497|error brewery|parol vini sri|1
+2019-07-23 22:57:51.104756|error brewery|alebrowar / birbant|1
+2019-07-23 22:57:59.153119|error beer|north brewing co.|transmission|1
+2019-07-23 22:58:03.089676|error brewery|craftownia|1
+2019-07-23 22:58:10.566590|error beer|jakiś browar|niespodzianka|1
+2019-07-23 22:58:14.399846|error brewery|browary toruńskie|1
+2019-07-23 22:58:22.022073|error beer|lobkowicz|rychtar natur|1
+2019-07-23 22:58:25.849998|error brewery|omnipollo / siren / david strachan|1
+2019-07-23 22:58:37.181628|error brewery|il filari|1
+2019-07-23 22:58:40.870662|error brewery|bianco frizzante|1
+2019-07-23 22:58:44.700295|error brewery|wroclove|1
+2019-07-23 22:58:48.407286|error brewery|#wawelskie|1
+2019-07-23 22:58:52.135234|error brewery|jopen/browar stu mostów|1
+2019-07-23 22:59:14.880074|error beer|kaunas alus|tradycynis ciemny z ziołami|1
