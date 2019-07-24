@@ -23,4 +23,4 @@ Craft pubs define prices for beer independently. Assume some pubs are positionin
 * MPL neural networks
 
 ## Why am I doing this?
-This project is finishing project for 6 months Data Science Bootcamp, which I was participant during H1 2019.
+This project is finishing project for 6 months Sages [Kodołamacz Data Science Bootcamp](https://www.kodolamacz.pl/bootcamp-datascience/), which I was participating during H1 2019.
